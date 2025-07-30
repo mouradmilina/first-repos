@@ -1,2 +1,2 @@
 conbsole.log('config.js');
-conbsole.log('version 2');
+conbsole.log('version 3');
