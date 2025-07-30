@@ -1,2 +1,2 @@
 conbsole.log("index.js");
-conbsole.log("version 1");
+conbsole.log("version 2");
